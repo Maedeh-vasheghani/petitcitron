@@ -1,2 +1,2 @@
-# recepies-app-
+Two solutions 
 
